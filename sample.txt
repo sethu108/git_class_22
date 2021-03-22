@@ -1,0 +1,2 @@
+this is a sample file that we have created for practicing the git commands
+so let us all enjoy this new found freedom
